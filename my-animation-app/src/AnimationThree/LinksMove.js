@@ -1,5 +1,5 @@
 import React, { Fragment } from "react";
-import { Group } from "@visx/group";
+import { Group } from "@vx/group";
 import { NodeGroup } from "react-move";
 import Link from "./Link";
 import { findCollapsedParent } from "./utils";

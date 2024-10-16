@@ -1,7 +1,7 @@
 import React, { Fragment, Component } from "react";
-import { Group } from "@visx/group";
-import { Tree } from "@visx/hierarchy";
-import { LinearGradient } from "@visx/gradient";
+import { Group } from "@vx/group";
+import { Tree } from "@vx/hierarchy";
+import { LinearGradient } from "@vx/gradient";
 import { hierarchy } from "d3-hierarchy";
 import Links from "./LinksMove";
 import Nodes from "./NodesMove";

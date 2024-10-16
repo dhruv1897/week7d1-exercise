@@ -1,5 +1,5 @@
 import React, { Fragment } from "react";
-import { Group } from "@visx/group";
+import { Group } from "@vx/group";
 
 function Node({ node, onClick }) {
   const width = 40;

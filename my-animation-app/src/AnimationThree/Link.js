@@ -12,7 +12,7 @@ import {
   LinkHorizontalLine,
   LinkVerticalLine,
   LinkRadialLine
-} from "@visx/shape";
+} from "@vx/shape";
 
 function Link({ data, linkType, layout, orientation, stepPercent, ...props }) {
   let LinkComponent;
